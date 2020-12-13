@@ -5,7 +5,9 @@ CONFIG -= qt
 
 SOURCES += \
         arma.cpp \
-        main.cpp
+        main.cpp \
+        proyectil.cpp
 
 HEADERS += \
-    arma.h
+    arma.h \
+    proyectil.h
