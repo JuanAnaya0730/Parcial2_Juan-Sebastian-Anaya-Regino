@@ -4,4 +4,8 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
+        arma.cpp \
         main.cpp
+
+HEADERS += \
+    arma.h
